@@ -1,8 +1,8 @@
 ### Hi there, I'm Luis Fábregas-Ibáñez  👋
 
-A data scientist and scientific software engineer, and here is where all of my code is stored.  
+A biomedical scientific software engineer, and here is where all of my code is stored.  
 
-- 🔭 I’m currently working on the development of research software (mainly on Python).
+- 🔭 I’m currently working on the development of research and biomedical software (mainly on Python) using open-source standards such as FHIR.
 - 🌱 I’m currently learning endpoint development
 - 👯 I’m looking to help and collaborate on any scientific open-source projects
 - 💬 Ask me about data science, Python or math. 
